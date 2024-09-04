@@ -17,7 +17,7 @@ const Header = () => {
         <p className = "w-44 h-12 border p-5">Book Free Consultation</p>
       </div>
 
-      <MenuIcon className = "w-16 h-8 md:hidden"/>
+      <MenuIcon className = "w-16 h-8 md:hidden lg:hidden"/>
     
       {/* <MainButton onClick = {()=>console.log("heey")} className="hidden">
         click me
