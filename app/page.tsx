@@ -3,10 +3,11 @@ import Header from "@/components/Header"
 import MainPage from '@/components/MainPage'
 import Quote from '@/components/Quote'
 import Section from '@/components/Section'
+import Services from '@/components/Services'
 
 const page = () => {
   return (
-    <div className = "bg-black w-auto overflow-hidden h-[90rem]">
+    <div className = "bg-black w-auto overflow-hidden h-[120rem]">
 
       <div className = "fixed top-0 left-0 w-[100%] z-50">
         <Header/>
@@ -16,6 +17,7 @@ const page = () => {
         <MainPage/>
         <Quote/>
         <Section/>
+        <Services/>
       </div>
       
     </div>

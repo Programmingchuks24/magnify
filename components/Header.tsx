@@ -16,18 +16,17 @@ const Header = () => {
         />
       </div>
 
-      <div className="hidden md:flex gap-5">
+      <div className="hidden md:flex gap-5 place-items-center">
         <p>Articles</p>
-        <p className="w-44 h-12 border p-5">Book Free Consultation</p>
+        <MainButton>
+        Book Introductory call
+      </MainButton>
       </div>
 
       <div className= "md:hidden">
         <MenuIcon className="w-16 h-8" />
       </div>
 
-      {/* <MainButton onClick = {()=>console.log("heey")} className="hidden">
-        click me
-      </MainButton> */}
     </div>
   );
 }

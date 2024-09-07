@@ -1,0 +1,48 @@
+{
+
+    "section" : [
+
+        {
+            "id":1,
+            "content":"UI/UX Design",
+            "subtext":"Elegant visual interface designs and experiences",
+            "image":"/pic6.png"
+        },
+
+        {
+            "id":2,
+            "content":"Data Analytics",
+            "subtext":"Gain unique insights into all your operations",
+            "image":"/pic5.png"
+        },
+
+        {
+            "id":3,
+            "content":"Web & App Development",
+            "subtext":"Interactive applications across all platforms",
+            "image":"/pic4.png"
+        },
+
+        {
+            "id":4,
+            "content":"Branding",
+            "subtext":"Deliver a unique customer experience",
+            "image":"/pic3.png"
+        },
+
+        {
+            "id":5,
+            "content":"Software Consultation",
+            "subtext":"Assist your team in designing mission critical systems",
+            "image":"/pic2.png"
+        },
+
+        {
+            "id":6,
+            "content":"Marketing",
+            "subtext":"Set your business apart from the competition",
+            "image":"/pic1.png"
+        }
+
+    ]
+}
