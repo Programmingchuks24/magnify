@@ -7,7 +7,7 @@ import Services from '@/components/Services'
 
 const page = () => {
   return (
-    <div className = "bg-black w-auto overflow-hidden h-[120rem]">
+    <div className = "bg-black w-auto overflow-hidden h-auto">
 
       <div className = "fixed top-0 left-0 w-[100%] z-50">
         <Header/>
