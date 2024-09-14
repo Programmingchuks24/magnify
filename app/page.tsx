@@ -4,6 +4,7 @@ import MainPage from '@/components/MainPage'
 import Quote from '@/components/Quote'
 import Section from '@/components/Section'
 import Services from '@/components/Services'
+import OtherText from '@/components/OtherText'
 
 const page = () => {
   return (
@@ -18,6 +19,7 @@ const page = () => {
         <Quote/>
         <Section/>
         <Services/>
+        <OtherText/>
       </div>
       
     </div>
