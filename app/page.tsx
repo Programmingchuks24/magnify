@@ -5,6 +5,7 @@ import Quote from '@/components/Quote'
 import Section from '@/components/Section'
 import Services from '@/components/Services'
 import OtherText from '@/components/OtherText'
+import Footer from '@/components/Footer'
 
 const page = () => {
   return (
@@ -20,6 +21,7 @@ const page = () => {
         <Section/>
         <Services/>
         <OtherText/>
+        <Footer/>
       </div>
       
     </div>
