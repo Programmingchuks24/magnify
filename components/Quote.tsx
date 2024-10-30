@@ -8,7 +8,7 @@ const Quote = () => {
 
         <p className = "font-bold"> - </p>
 
-        <p className = "text-blue-300">CEO & Founder, Adam Lukat</p>
+        <p className = "text-[#ebebe3]">CEO & Founder, Adam Lukat</p>
     
     </div>
   )

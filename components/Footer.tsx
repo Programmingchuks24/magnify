@@ -7,7 +7,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 const Footer = () => {
   return (
     <div className="text-white flex flex-col place-items-center gap-8 mb-10 mt-20">
-      <div className = "flex gap-20 place-items-center">
+      <div className = "flex gap-14 place-items-center">
             <Image
             src="/logo-rotated.webp"
             width={160}
