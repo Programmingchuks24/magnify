@@ -16,17 +16,12 @@ const  BoxLayout = () => {
     },
 
     {
-      value:"36+",
-      Text:"Facilitated Patnerships"
-    },
-
-    {
       value:"100%",
       Text:"Client Satisfaction"
     }
   ])
   return (
-    <div className = "grid grid-cols-2 gap-6 md:grid-cols-4">
+    <div className = "grid grid-cols-2 place-items-center gap-6 md:grid-cols-3">
 
       {value.map((item, index) => (
         
